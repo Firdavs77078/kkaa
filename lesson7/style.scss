@@ -1,0 +1,186 @@
+body{
+  background-color: #1e7e34;
+  font-family: Calibri,sans-serif!important;
+}
+.section-1{
+.container{
+  z-index: 11;
+  font-family: Calibri,sans-serif!important;
+  position: fixed;
+
+  left: 17%;
+
+  .navbar{
+
+   background-color: #000000 !important;
+    color: #ffffff !important;
+    .nav-item{
+     .nav-link{
+       color: #ffffff !important;
+     }
+
+    }
+  }} }
+.section-2{
+  .container{
+    .hero-image {
+      background-image: url("img/rasm9.jpg");
+      background-color: #cccccc;
+      height: 600px;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: relative;
+    }
+
+    .hero-text {
+      text-align: start;
+      position: absolute;
+      top: 50%;
+      left: 30%;
+      transform: translate(-50%, -50%);
+      color: white;
+    }
+  }
+}
+.section-2{
+  .container{
+    button{
+      a{
+        color: white!important;
+        text-decoration: none;
+      }
+    }
+    .btn{
+      color: white!important;
+    }
+  }
+}
+
+
+
+.section-3{
+  .container{
+    .hero-image {
+      background-image: url("img/rasm10.png");
+      background-color: #cccccc;
+      height: 600px;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: relative;
+    }
+
+    .hero-text {
+      text-align: initial;
+      position: absolute;
+      top: 50%;
+      left: 67%;
+      transform: translate(-50%, -50%);
+      color: #000000;
+    }
+  }
+}
+.section-3{
+  .container{
+    button{
+      a{
+        color: white!important;
+        text-decoration: none;
+      }
+    }
+    .btn{
+      color: white!important;
+    }
+  }
+}
+
+.section-4{
+  .container{
+    .hero-image {
+      background-image: url("img/rasm11.png");
+      background-color: #cccccc;
+      height: 500px;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: relative;
+    }
+
+    .hero-text {
+      text-align: start;
+      position: absolute;
+      top: 50%;
+      left: 33%;
+      transform: translate(-50%, -50%);
+      color: #000000;
+    }
+  }
+}
+.section-4{
+  .container{
+    button{
+      a{
+        color: white!important;
+        text-decoration: none;
+      }
+    }
+    .btn{
+      color: white!important;
+    }
+  }
+}
+
+
+.section-5{
+  .container{
+    .hero-image {
+      background-image: url("img/rasm12.png");
+      background-color: #cccccc;
+      height: 600px;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      position: relative;
+    }
+
+    .hero-text {
+      text-align: start;
+      position: absolute;
+      top: 53%;
+      left: 41%;
+      transform: translate(-50%, -50%);
+      color: #000000;
+    }
+  }
+}
+.section-5{
+  .container{
+    button{
+      a{
+        color: white!important;
+        text-decoration: none;
+      }
+    }
+    .btn{
+      color: white!important;
+    }
+  }
+}
+
+.section-6{
+  .container{
+    img{
+      width: 300px;
+    }
+    .footer {
+
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      background-color: #000000;
+      color: white;
+      text-align: center;
+    }
+  }
+}
